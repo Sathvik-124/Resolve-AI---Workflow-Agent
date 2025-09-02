@@ -1,11 +1,6 @@
-# Welcome to the 2024 Ashby Prize in Computational Science Hackathon
-* [Hackathon general info website](https://ai.ncsa.illinois.edu/news-events/2024/03/2024-ashby-prize-in-computational-science-hackathon/)
+# Welcome to the Workflow Agent - Resolve AI
 
-## Rules and Judging
-1. You can create anything you want but it **must involve computatoinal science**.
-2. You will be judgged primarially on innovation, inginuity and creativity, as well as the [other criteria mentioned here](https://ai.ncsa.illinois.edu/news-events/2024/03/2024-ashby-prize-in-computational-science-hackathon/) like your final oral presentation.
-
-# Workflow Agent
+# Resolve AI Workflow Agent
 An AI-powered coding assistant designed to streamline and solve complex scientific computational workflows. Leveraging advanced language models and a suite of development tools, it offers an intuitive interface for executing a wide range of tasks, from data analysis to full-stack development.
 
 ## Features
@@ -39,11 +34,3 @@ An AI-powered coding assistant designed to streamline and solve complex scientif
    python main.py
    ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report bugs, and suggest enhancements.
-
-## Acknowledgments
-Special thanks to the Center for AI Innovation for supporting this project.
