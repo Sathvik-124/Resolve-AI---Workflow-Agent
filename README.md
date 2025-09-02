@@ -1,6 +1,4 @@
-# Welcome to the Workflow Agent - Resolve AI
-
-# Resolve AI Workflow Agent
+# Welcome to the Autonomous IT Workflow Agent - ResolveAI
 An AI-powered coding assistant designed to streamline and solve complex scientific computational workflows. Leveraging advanced language models and a suite of development tools, it offers an intuitive interface for executing a wide range of tasks, from data analysis to full-stack development.
 
 ## Features
